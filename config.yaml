@@ -1,0 +1,20 @@
+app:
+  port: 8080
+  mode: "debug"
+  ver: "1.1.6"
+mysql:
+  host: "127.0.0.1"
+  port: 3306
+  db: "webapp"
+  user: "root"
+  password: "root1234"
+redis:
+  host: "127.0.0.1"
+  port: 6379
+  db: 0
+log:
+  level: "insdsadfo"
+  filename: "./app.log"
+  max_size: 100
+  max_age: 30
+  max_backups: 7

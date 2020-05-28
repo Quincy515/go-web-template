@@ -1,0 +1,17 @@
+{"level":"ERROR","ts":"2020-05-24T17:33:34.710+0800","caller":"controllers/index.go:14","msg":"this is a error"}
+{"level":"ERROR","ts":1590312930.4799542,"caller":"controllers/index.go:14","msg":"this is a error"}
+{"level":"ERROR","timestamp":1590323770.5628257,"caller":"controllers/index.go:14","msg":"this is a error"}
+{"level":"ERROR","timestamp":1590324113.0146632,"caller":"controllers/index.go:14","msg":"this is a error"}
+{"level":"ERROR","timestamp":1590324113.7924283,"caller":"controllers/index.go:14","msg":"this is a error"}
+{"level":"ERROR","timestamp":1590324114.1216552,"caller":"controllers/index.go:14","msg":"this is a error"}
+{"level":"ERROR","timestamp":1590324114.2721043,"caller":"controllers/index.go:14","msg":"this is a error"}
+{"level":"ERROR","timestamp":1590325083.19819,"caller":"controllers/index.go:15","msg":"this is a error"}
+{"level":"ERROR","timestamp":1590325095.02284,"caller":"controllers/index.go:15","msg":"this is a error"}
+{"level":"ERROR","timestamp":1590328726.8189716,"caller":"controllers/user.go:38","msg":"sign up user failed","error":"Error 1364: Field 'user_id' doesn't have a default value"}
+{"level":"ERROR","timestamp":1590332222.1374464,"caller":"controllers/user.go:18","msg":"invalid params","error":"缺少必填字段username"}
+{"level":"ERROR","timestamp":1590332239.14961,"caller":"controllers/user.go:18","msg":"invalid params","error":"两次密码不一致"}
+{"level":"ERROR","timestamp":1590634262.9343941,"caller":"webapp/main.go:40","msg":"init mysql failed","error":"Error 1049: Unknown database 'webapp'","mysql":"xxx","port":3306}
+{"level":"ERROR","timestamp":1590634437.221691,"caller":"webapp/main.go:50","msg":"init redis failed","error":"dial tcp 127.0.0.1:6379: connect: connection refused"}
+{"level":"ERROR","timestamp":1590634648.512717,"caller":"controllers/index.go:15","msg":"this is a error"}
+{"level":"ERROR","timestamp":1590634845.526017,"caller":"controllers/index.go:15","msg":"this is a error"}
+{"level":"ERROR","timestamp":1590645600.0988328,"caller":"go-web-template/main.go:50","msg":"init redis failed","error":"dial tcp 127.0.0.1:6379: connect: connection refused"}

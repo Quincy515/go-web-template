@@ -1,0 +1,225 @@
+{"level":"INFO","ts":"2020-05-24T17:32:07.768+0800","caller":"webapp/main.go:26","msg":"init logger success"}
+{"level":"INFO","ts":"2020-05-24T17:32:07.782+0800","caller":"webapp/main.go:36","msg":"init mysql success"}
+{"level":"INFO","ts":"2020-05-24T17:32:07.784+0800","caller":"webapp/main.go:42","msg":"init redis success"}
+{"level":"INFO","ts":"2020-05-24T17:33:15.992+0800","caller":"webapp/main.go:26","msg":"init logger success"}
+{"level":"INFO","ts":"2020-05-24T17:33:16.004+0800","caller":"webapp/main.go:36","msg":"init mysql success"}
+{"level":"INFO","ts":"2020-05-24T17:33:16.006+0800","caller":"webapp/main.go:42","msg":"init redis success"}
+{"level":"ERROR","ts":"2020-05-24T17:33:34.710+0800","caller":"controllers/index.go:14","msg":"this is a error"}
+{"level":"INFO","ts":"2020-05-24T17:33:34.711+0800","caller":"controllers/index.go:16","msg":"this is a test log"}
+{"level":"INFO","ts":1590312927.9944513,"caller":"webapp/main.go:26","msg":"init logger success"}
+{"level":"INFO","ts":1590312928.00745,"caller":"webapp/main.go:36","msg":"init mysql success"}
+{"level":"INFO","ts":1590312928.0094774,"caller":"webapp/main.go:42","msg":"init redis success"}
+{"level":"ERROR","ts":1alle590312930.4799542,"caller":"controllers/index.go:14","msg":"this is a error"}
+                                              {"level":"INFO","ts":1590312930.4799542,"cr":"controllers/index.go:16","msg":"this is a test log"}
+{"level":"INFO","timestamp":1590323664.429517,"caller":"webapp/main.go:28","msg":"init logger success"}
+{"level":"INFO","timestamp":1590323664.4425168,"caller":"webapp/main.go:39","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590323664.4435165,"caller":"webapp/main.go:46","msg":"init redis success"}
+{"level":"ERROR","timestamp":1590323770.5628257,"caller":"controllers/index.go:14","msg":"this is a error"}
+{"level":"INFO","timestamp":1590323770.5638258,"caller":"controllers/index.go:16","msg":"this is a test log"}
+{"level":"INFO","timestamp":1590323881.4176471,"caller":"webapp/main.go:28","msg":"init logger success"}
+{"level":"INFO","timestamp":1590323881.4296772,"caller":"webapp/main.go:39","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590323881.430648,"caller":"webapp/main.go:46","msg":"init redis success"}
+{"level":"INFO","timestamp":1590323895.7935977,"caller":"webapp/main.go:28","msg":"init logger success"}
+{"level":"INFO","timestamp":1590323895.8066344,"caller":"webapp/main.go:39","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590323895.8075995,"caller":"webapp/main.go:46","msg":"init redis success"}
+{"level":"INFO","timestamp":1590323930.0812097,"caller":"webapp/main.go:28","msg":"init logger success"}
+{"level":"INFO","timestamp":1590323930.0942087,"caller":"webapp/main.go:39","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590323930.0962083,"caller":"webapp/main.go:46","msg":"init redis success"}
+{"level":"INFO","timestamp":1590323972.866879,"caller":"webapp/main.go:28","msg":"init logger success"}
+{"level":"INFO","timestamp":1590323972.8789089,"caller":"webapp/main.go:39","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590323972.8798773,"caller":"webapp/main.go:46","msg":"init redis success"}
+{"level":"INFO","timestamp":1590323978.9795046,"caller":"webapp/main.go:28","msg":"init logger success"}
+{"level":"INFO","timestamp":1590323978.991509,"caller":"webapp/main.go:39","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590323978.992507,"caller":"webapp/main.go:46","msg":"init redis success"}
+{"level":"INFO","timestamp":1590324000.4941921,"caller":"webapp/main.go:28","msg":"init logger success"}
+{"level":"INFO","timestamp":1590324000.507217,"caller":"webapp/main.go:39","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590324000.5081923,"caller":"webapp/main.go:46","msg":"init redis success"}
+{"level":"INFO","timestamp":1590324015.2118213,"caller":"webapp/main.go:28","msg":"init logger success"}
+{"level":"INFO","timestamp":1590324015.2397993,"caller":"webapp/main.go:39","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590324015.2407942,"caller":"webapp/main.go:46","msg":"init redis success"}
+{"level":"INFO","timestamp":1590324018.1966467,"caller":"webapp/main.go:28","msg":"init logger success"}
+{"level":"INFO","timestamp":1590324018.2086468,"caller":"webapp/main.go:39","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590324018.2096481,"caller":"webapp/main.go:46","msg":"init redis success"}
+{"level":"INFO","timestamp":1590324103.4225,"caller":"webapp/main.go:28","msg":"init logger success"}
+{"level":"INFO","timestamp":1590324103.4345012,"caller":"webapp/main.go:39","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590324103.4355006,"caller":"webapp/main.go:46","msg":"init redis success"}
+{"level":"ERROR","timestamp":1590324113.0146632,"caller":"controllers/index.go:14","msg":"this is a error"}
+{"level":"INFO","timestamp":1590324113.0146632,"caller":"controllers/index.go:16","msg":"this is a test log"}
+{"level":"INFO","timestamp":1590324113.0156627,"caller":"logger/gin_middleware.go:25","msg":"/index","status":200,"method":"GET","path":"/index","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36 Edg/83.0.478.37","errors":"","cost":0.0009994}
+{"level":"ERROR","timestamp":1590324113.7924283,"caller":"controllers/index.go:14","msg":"this is a error"}
+{"level":"INFO","timestamp":1590324113.7924283,"caller":"controllers/index.go:16","msg":"this is a test log"}
+{"level":"INFO","timestamp":1590324113.7924283,"caller":"logger/gin_middleware.go:25","msg":"/index","status":200,"method":"GET","path":"/index","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36 Edg/83.0.478.37","errors":"","cost":0}
+{"level":"ERROR","timestamp":1590324114.1216552,"caller":"controllers/index.go:14","msg":"this is a error"}
+{"level":"INFO","timestamp":1590324114.1266549,"caller":"controllers/index.go:16","msg":"this is a test log"}
+{"level":"INFO","timestamp":1590324114.1266549,"caller":"logger/gin_middleware.go:25","msg":"/index","status":200,"method":"GET","path":"/index","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36 Edg/83.0.478.37","errors":"","cost":0.0049997}
+{"level":"ERROR","timestamp":1590324114.2721043,"caller":"controllers/index.go:14","msg":"this is a error"}
+{"level":"INFO","timestamp":1590324114.2721043,"caller":"controllers/index.go:16","msg":"this is a test log"}
+{"level":"INFO","timestamp":1590324114.2721043,"caller":"logger/gin_middleware.go:25","msg":"/index","status":200,"method":"GET","path":"/index","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36 Edg/83.0.478.37","errors":"","cost":0}
+{"level":"INFO","timestamp":1590324595.625938,"caller":"webapp/main.go:33","msg":"init logger success"}
+{"level":"INFO","timestamp":1590324595.6389163,"caller":"webapp/main.go:44","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590324595.639941,"caller":"webapp/main.go:51","msg":"init redis success"}
+{"level":"INFO","timestamp":1590324605.1613488,"caller":"webapp/main.go:33","msg":"init logger success"}
+{"level":"INFO","timestamp":1590324605.1743488,"caller":"webapp/main.go:44","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590324605.175349,"caller":"webapp/main.go:51","msg":"init redis success"}
+{"level":"INFO","timestamp":1590324621.968388,"caller":"webapp/main.go:35","msg":"init logger success"}
+{"level":"INFO","timestamp":1590324621.9803882,"caller":"webapp/main.go:46","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590324621.9824173,"caller":"webapp/main.go:53","msg":"init redis success"}
+{"level":"INFO","timestamp":1590325062.2061408,"caller":"webapp/main.go:35","msg":"init logger success"}
+{"level":"INFO","timestamp":1590325062.219141,"caller":"webapp/main.go:46","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590325062.2211413,"caller":"webapp/main.go:53","msg":"init redis success"}
+{"level":"ERROR","timestamp":1590325083.19819,"caller":"controllers/index.go:15","msg":"this is a error"}
+{"level":"INFO","timestamp":1590325083.19819,"caller":"controllers/index.go:17","msg":"this is a test log"}
+{"level":"INFO","timestamp":1590325088.198436,"caller":"logger/gin_middleware.go:25","msg":"/index","status":200,"method":"GET","path":"/index","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36 Edg/83.0.478.37","errors":"","cost":5.0002461}
+{"level":"ERROR","timestamp":1590325095.02284,"caller":"controllers/index.go:15","msg":"this is a error"}
+{"level":"INFO","timestamp":1590325095.02284,"caller":"controllers/index.go:17","msg":"this is a test log"}
+{"level":"INFO","timestamp":1590325096.192561,"caller":"webapp/main.go:80","msg":"Shutdown Server ..."}
+{"level":"INFO","timestamp":1590325100.0242183,"caller":"logger/gin_middleware.go:25","msg":"/index","status":200,"method":"GET","path":"/index","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36 Edg/83.0.478.37","errors":"","cost":5.0013783}
+{"level":"INFO","timestamp":1590325101.1925755,"caller":"webapp/main.go:89","msg":"Server exiting..."}
+{"level":"INFO","timestamp":1590328720.8487692,"caller":"webapp/main.go:35","msg":"init logger success"}
+{"level":"INFO","timestamp":1590328720.8617697,"caller":"webapp/main.go:46","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590328720.863768,"caller":"webapp/main.go:53","msg":"init redis success"}
+{"level":"ERROR","timestamp":1590328726.8189716,"caller":"controllers/user.go:38","msg":"sign up user failed","error":"Error 1364: Field 'user_id' doesn't have a default value"}
+{"level":"INFO","timestamp":1590328726.8199692,"caller":"logger/gin_middleware.go:25","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.25.0","errors":"","cost":0.0059706}
+{"level":"INFO","timestamp":1590328783.8476617,"caller":"webapp/main.go:80","msg":"Shutdown Server ..."}
+{"level":"INFO","timestamp":1590328783.848661,"caller":"webapp/main.go:90","msg":"Server exiting..."}
+{"level":"INFO","timestamp":1590328788.2765758,"caller":"webapp/main.go:35","msg":"init logger success"}
+{"level":"INFO","timestamp":1590328788.2886033,"caller":"webapp/main.go:46","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590328788.2905996,"caller":"webapp/main.go:53","msg":"init redis success"}
+{"level":"INFO","timestamp":1590328790.8194191,"caller":"logger/gin_middleware.go:25","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.25.0","errors":"","cost":0.0089999}
+{"level":"INFO","timestamp":1590330700.0290852,"caller":"webapp/main.go:80","msg":"Shutdown Server ..."}
+{"level":"INFO","timestamp":1590330700.0300608,"caller":"webapp/main.go:90","msg":"Server exiting..."}
+{"level":"INFO","timestamp":1590330714.500432,"caller":"webapp/main.go:35","msg":"init logger success"}
+{"level":"INFO","timestamp":1590330714.5134296,"caller":"webapp/main.go:46","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590330714.514403,"caller":"webapp/main.go:53","msg":"init redis success"}
+{"level":"INFO","timestamp":1590330737.8608582,"caller":"webapp/main.go:35","msg":"init logger success"}
+{"level":"INFO","timestamp":1590330737.8728569,"caller":"webapp/main.go:46","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590330737.8748562,"caller":"webapp/main.go:53","msg":"init redis success"}
+{"level":"INFO","timestamp":1590330861.384626,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590330861.3976266,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590330861.3986266,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590330896.0533988,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590330896.0663724,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590330896.0673974,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590330911.2444875,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590330911.2574894,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590330911.2584894,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590330914.5430841,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590330914.5560548,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590330914.5570533,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590331020.0199585,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590331020.0329585,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590331020.0339587,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590331041.2963302,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590331041.3093262,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590331041.3103058,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590331056.923494,"caller":"logger/gin_middleware.go:25","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.25.0","errors":"","cost":0.0149982}
+{"level":"INFO","timestamp":1590331295.1810002,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590331295.193999,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590331295.1950004,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590331304.959883,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590331304.9728825,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590331304.9738834,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590331324.2076437,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590331324.2206068,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590331324.2226107,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590331338.9100485,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590331338.9220498,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590331338.924074,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590331499.06782,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590331499.079824,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590331499.0818202,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590331513.592423,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590331513.6054237,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590331513.6064236,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590331548.2002225,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590331548.212221,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590331548.2132235,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590331578.0056043,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590331578.0176048,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590331578.0196044,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590331599.7333472,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590331599.7463527,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590331599.748323,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590331641.7419965,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590331641.7540216,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590331641.754996,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590331670.5543473,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590331670.5663204,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590331670.5683174,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590331706.4518673,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590331706.4648407,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590331706.4658413,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590331804.933255,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590331804.9452548,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590331804.9462543,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590331805.9929054,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590331806.0058818,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590331806.0068827,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590331821.6900222,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590331821.7020216,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590331821.70302,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590331851.5103133,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590331851.522314,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590331851.5243137,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590331863.6299326,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590331863.6419332,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590331863.6429336,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590331944.235031,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590331944.2480302,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590331944.2490304,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590331966.4327755,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590331966.4457748,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590331966.446774,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590331974.188714,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590331974.20171,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590331974.20268,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590331989.498364,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590331989.5103636,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590331989.512363,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590332074.363762,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590332074.3757632,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590332074.3777626,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590332086.4736607,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590332086.485661,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590332086.486661,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590332176.3605735,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590332176.3725739,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590332176.373573,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590332205.6470373,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590332205.6600163,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590332205.661015,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"ERROR","timestamp":1590332222.1374464,"caller":"controllers/user.go:18","msg":"invalid params","error":"缺少必填字段username"}
+{"level":"INFO","timestamp":1590332222.1374464,"caller":"logger/gin_middleware.go:25","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.25.0","errors":"","cost":0}
+{"level":"ERROR","timestamp":1590332239.14961,"caller":"controllers/user.go:18","msg":"invalid params","error":"两次密码不一致"}
+{"level":"INFO","timestamp":1590332239.14961,"caller":"logger/gin_middleware.go:25","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.25.0","errors":"","cost":0}
+{"level":"INFO","timestamp":1590332250.2498536,"caller":"webapp/main.go:87","msg":"Shutdown Server ..."}
+{"level":"INFO","timestamp":1590332250.2498536,"caller":"webapp/main.go:97","msg":"Server exiting..."}
+{"level":"INFO","timestamp":1590634262.929216,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"ERROR","timestamp":1590634262.9343941,"caller":"webapp/main.go:40","msg":"init mysql failed","error":"Error 1049: Unknown database 'webapp'","mysql":"xxx","port":3306}
+{"level":"INFO","timestamp":1590634437.2199879,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590634437.221348,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"ERROR","timestamp":1590634437.221691,"caller":"webapp/main.go:50","msg":"init redis failed","error":"dial tcp 127.0.0.1:6379: connect: connection refused"}
+{"level":"INFO","timestamp":1590634544.758265,"caller":"webapp/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590634544.7595599,"caller":"webapp/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590634544.760097,"caller":"webapp/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590634643.566293,"caller":"logger/gin_middleware.go:25","msg":"/","status":404,"method":"GET","path":"/","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36 Edg/81.0.416.64","errors":"","cost":0.000035269}
+{"level":"INFO","timestamp":1590634644.2698,"caller":"logger/gin_middleware.go:25","msg":"/favicon.ico","status":404,"method":"GET","path":"/favicon.ico","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36 Edg/81.0.416.64","errors":"","cost":0.000000558}
+{"level":"ERROR","timestamp":1590634648.512717,"caller":"controllers/index.go:15","msg":"this is a error"}
+{"level":"INFO","timestamp":1590634648.512918,"caller":"controllers/index.go:17","msg":"this is a test log"}
+{"level":"INFO","timestamp":1590634653.513238,"caller":"logger/gin_middleware.go:25","msg":"/index","status":200,"method":"GET","path":"/index","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36 Edg/81.0.416.64","errors":"","cost":5.000497371}
+{"level":"INFO","timestamp":1590634807.362355,"caller":"logger/gin_middleware.go:25","msg":"/xxx","status":404,"method":"GET","path":"/xxx","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36 Edg/81.0.416.64","errors":"","cost":0.000000841}
+{"level":"INFO","timestamp":1590634836.415288,"caller":"logger/gin_middleware.go:25","msg":"/signup","status":404,"method":"GET","path":"/signup","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36 Edg/81.0.416.64","errors":"","cost":0.000000636}
+{"level":"INFO","timestamp":1590634842.382957,"caller":"logger/gin_middleware.go:25","msg":"/signup","status":404,"method":"GET","path":"/signup","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36 Edg/81.0.416.64","errors":"","cost":0.00000078}
+{"level":"ERROR","timestamp":1590634845.526017,"caller":"controllers/index.go:15","msg":"this is a error"}
+{"level":"INFO","timestamp":1590634845.52612,"caller":"controllers/index.go:17","msg":"this is a test log"}
+{"level":"INFO","timestamp":1590634850.527622,"caller":"logger/gin_middleware.go:25","msg":"/index","status":200,"method":"GET","path":"/index","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36 Edg/81.0.416.64","errors":"","cost":5.001548441}
+{"level":"INFO","timestamp":1590634898.6236732,"caller":"webapp/main.go:87","msg":"Shutdown Server ..."}
+{"level":"INFO","timestamp":1590634898.624074,"caller":"webapp/main.go:97","msg":"Server exiting..."}
+{"level":"INFO","timestamp":1590645600.0953379,"caller":"go-web-template/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590645600.0985081,"caller":"go-web-template/main.go:47","msg":"init mysql success"}
+{"level":"ERROR","timestamp":1590645600.0988328,"caller":"go-web-template/main.go:50","msg":"init redis failed","error":"dial tcp 127.0.0.1:6379: connect: connection refused"}
+{"level":"INFO","timestamp":1590645617.955926,"caller":"go-web-template/main.go:36","msg":"init logger success"}
+{"level":"INFO","timestamp":1590645617.957113,"caller":"go-web-template/main.go:47","msg":"init mysql success"}
+{"level":"INFO","timestamp":1590645617.9577441,"caller":"go-web-template/main.go:54","msg":"init redis success"}
+{"level":"INFO","timestamp":1590645621.52844,"caller":"go-web-template/main.go:87","msg":"Shutdown Server ..."}
+{"level":"INFO","timestamp":1590645621.528781,"caller":"go-web-template/main.go:97","msg":"Server exiting..."}
